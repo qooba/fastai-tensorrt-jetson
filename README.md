@@ -1,2 +1,2 @@
-# fastai-tensorrt-jetson
-FastAI with TensorRT on Jetson Nano
+Guide how to run FastAI on Jetson Nano and optimize for TensorRT. Read more on: 
+[https://qooba.net/2020/05/10/fastai-with-tensorrt-on-jetson-nano/](https://qooba.net/2020/05/10/fastai-with-tensorrt-on-jetson-nano/)
